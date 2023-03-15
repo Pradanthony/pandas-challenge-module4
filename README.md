@@ -2,7 +2,7 @@
 Module 4 Assignment on Pandas
 This was a challenging and interesting assignment on the analysis of schools performance.
 
-Grouping, binning specially formatting was a challenge!
+Grouping, binning and specially formatting was a challenge!
 
 The analysis of school performance was taken by measuring the percentage of students in each schools with more than 70%(pass mark) in math, reading and overall score. Analysis of the performances of each grades (9 to 12) and the school sorted by top and bottom performers.
 Further analysis was performed to investiagte the impact of the school budget per student, school size by population and school type.
